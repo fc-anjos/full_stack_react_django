@@ -1,4 +1,4 @@
-import { GET_LEADS, DELETE_LEAD } from '../actions/types'
+import { GET_LEADS, DELETE_LEAD } from '../actions/types.js'
 
 const initialState = {
   leads: []
